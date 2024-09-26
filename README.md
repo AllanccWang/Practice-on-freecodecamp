@@ -1,2 +1,2 @@
 # Practices
-## Practices on data analysis, and software and hardware integration
+Practices on **_data analysis_**, and **_system integration_**
