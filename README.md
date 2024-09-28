@@ -1,2 +1,2 @@
 # Practices
-Practices on **_data analysis_**, and **_system integration_**
+Practices problems on **_freecodecamp_**
