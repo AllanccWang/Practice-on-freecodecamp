@@ -1,7 +1,7 @@
 # Notes
 
 This folder contains module to work with stdf (Standard Test Data Format) and analysis method
-- [ ] is it possible to determine product failure mode depending on fail test items ??
+- [ ] is it possible to determine product failure mode depending on fail test items, as Machine Learning method ??
 
 ## 20250111
 * use exist module on pystdf and modified to capture "PTR (Parametric Test Record)" items
