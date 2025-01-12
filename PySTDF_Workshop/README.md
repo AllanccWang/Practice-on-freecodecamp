@@ -9,4 +9,5 @@ This folder contains module to work with stdf (Standard Test Data Format) and an
 
 ## 20250113
 * define Cp and Cpk function to check on test item
-* add limit axis into plot and save as jpg
+* add limit axis into plot and save as png
+<img align="justify" src="img/T1000_histplot_fig.png" alt="T1000_histplot_fig_20250113" style="width:50%">
