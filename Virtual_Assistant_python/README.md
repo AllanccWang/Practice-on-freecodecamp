@@ -4,4 +4,4 @@ the purpose of this project is building a virtual assistant to provide work-rela
 
 # 20250131
 * a draft from [**Build a Virtual Assistant Using Python**](https://www.geeksforgeeks.org/build-a-virtual-assistant-using-python/) and it's tested
-- [] open browser and keyin keyword to find related infomation
+- [ ] open browser and keyin keyword to find related infomation
