@@ -1,6 +1,6 @@
 # Purpose
 the purpose is to find the subject related to core question or topic, demonstrating as 
-<img align="justify" src="img/T1000_histplot_fig.png" alt="T1000_histplot_fig_20250113" style="width:50%">
+<img align="justify" src="conceptDiagramDraft.JPG" alt="RadialKnowMap" style="width:50%">
 
 ## 20250131
 * check the links regarding to topic in wikipedia, and if there is keyword same as topic then it's strong connect
