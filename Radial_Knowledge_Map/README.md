@@ -1,5 +1,6 @@
 # Purpose
 the purpose is to find the subject related to core question or topic
+
 <img align="justify" src="conceptDiagramDraft.jpg" alt="RadialKnowMap" style="width:50%">
 
 ## 20250131
